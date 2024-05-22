@@ -6,7 +6,9 @@
 
 ## 说明
 
-> 作者 @a.Dong
+作者 海思彼岸论坛@a.Dong
+
+Github@hassbox(https://github.com/hassbox) 
 > 原帖 https://bbs.hassbian.com/thread-25214-1-1.html 
 > 
-> 仅上传方便HACS安装
+> 仅搬运上传方便HACS安装
